@@ -51,6 +51,11 @@
 </a>
 <a href="https://github.com/stanley-ezeaku/Ispend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stanley-ezeaku&repo=Ispend&theme=light" />
+  
+  
+![Stanley's github stats](https://github-readme-stats.vercel.app/api?username=stanley-ezeaku&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stanley-ezeaku&layout=compact)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=stanley-ezeaku&theme=monokai&margin-w=15&margin-h=15&&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <div align="center">
