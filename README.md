@@ -46,8 +46,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=stanley-ezeaku&theme=monokai&margin-w=15&margin-h=15&&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-| <a href="https://github.com/stanley-ezeaku/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=stanley-ezeaku&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Stanley's github stats" /></a> | <a href="https://github.com/stanley-ezeaku/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
 
 #### Top Repositories
 
