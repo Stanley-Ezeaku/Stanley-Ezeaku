@@ -44,10 +44,10 @@
     
 
 <a href="https://github.com/stanley-ezeaku">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanley-ezeaku&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanley-ezeak&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/stanley-ezeaku">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=stanley-ezeaku&show_icons=true&theme=light&line_height=27" alt="Stanley's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=stanley-ezeak&show_icons=true&theme=light&line_height=27" alt="Stanley's github stats"/>
 </a>
 <a href="https://github.com/stanley-ezeaku/Ispend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stanley-ezeaku&repo=Ispend&theme=light" />
