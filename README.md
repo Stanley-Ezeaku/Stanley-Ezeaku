@@ -1,4 +1,4 @@
-## Hola, I'm [Stanley Ezeaku!](https://www.zijemu.com) 👋
+## Hola, I'm [Stanley Ezeaku!] 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stanley-ezeaku&label=Views&color=blue&style=plastic" alt="stanley-ezeaku" /> </p>
 
