@@ -47,15 +47,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=stanezeaku&theme=monokai&margin-w=15&margin-h=15&&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-#### Top Repositories
 
-
-<a href="https://github.com/stanezeaku/zlearning">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stanezeaku&repo=zlearning&theme=buefy" />
-</a>
-<a href="https://github.com/stanezeaku/smartstan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stanezeaku&repo=smartstan&theme=buefy" />
-</a>
 
 
 <div align="center">
