@@ -27,9 +27,9 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Coding and Learning.
 
-[![Twitter: stan_ezeaku](https://img.shields.io/twitter/follow/stan_ezeaku?style=social)](https://twitter.com/stanezeaku)
+[![Twitter: stan_ezeaku](https://img.shields.io/twitter/follow/stanezeaku?style=social)](https://twitter.com/stanezeaku)
 [![Linkedin: stanezeaku](https://img.shields.io/badge/-stanezeaku-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stanezeaku/)](https://www.linkedin.com/in/stanezeaku/)
-[![GitHub stanley-ezeaku](https://img.shields.io/github/followers/stanley-ezeaku?label=follow&style=social)](https://github.com/stanezeaku)
+[![GitHub stanley-ezeaku](https://img.shields.io/github/followers/stanezeaku?label=follow&style=social)](https://github.com/stanezeaku)
 
 
 
@@ -42,7 +42,7 @@
 
   
   
-![Stanley's github stats](https://github-readme-stats.vercel.app/api?username=stanezeaku&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stanley-ezeaku&layout=compact)
+![Stanley's github stats](https://github-readme-stats.vercel.app/api?username=stanezeaku&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stanezeaku&layout=compact)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=stanezeaku&theme=monokai&margin-w=15&margin-h=15&&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
