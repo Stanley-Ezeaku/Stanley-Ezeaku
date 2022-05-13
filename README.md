@@ -23,7 +23,7 @@
 - 🌱 I’m currently learning more about AI/ML
 - 👯 I’m looking to collaborate on any flutter/AI Project.
 - 💬 Ask me about Flutter, AI or any tech-related stuff.
-- 📫 How to reach me: [Twitter - @stan_ezeaku](https://twitter.com/stanezeaku)
+- 📫 How to reach me: [Twitter - @stanezeaku](https://twitter.com/stanezeaku)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Coding and Learning.
 
