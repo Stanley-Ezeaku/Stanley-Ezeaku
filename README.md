@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Stanley ![](https://pbs.twimg.com/profile_banners/860357608552763393/1593430830/1500x500)
 
-Mobile Software Engineer ⚡️ Building SiteMe, government and call - A mobile app for African business owner to sale their products accross the world. 
+Mobile Software Engineer ⚡️ Building SiteMe, and Zijemu Ecommerce. 
 
 
 <hr>
