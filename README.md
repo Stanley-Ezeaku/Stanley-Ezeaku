@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Stanley ![](https://pbs.twimg.com/profile_banners/860357608552763393/1593430830/1500x500)
 
-Mobile Software Engineer ⚡️ Building SiteMe, and Zijemu Ecommerce. 
-
 
 <hr>
 
